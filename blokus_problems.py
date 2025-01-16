@@ -52,9 +52,7 @@ class BlokusFillProblem(SearchProblem):
         return len(actions)
 
 
-#####################################################
-# This portion is incomplete.  Time to write code!  #
-#####################################################
+
 class BlokusCornersProblem(SearchProblem):
     def __init__(self, board_w, board_h, piece_list, starting_point=(0, 0)):
         self.expanded = 0
