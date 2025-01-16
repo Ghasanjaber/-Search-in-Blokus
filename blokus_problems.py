@@ -156,7 +156,6 @@ class BlokusCoverProblem(SearchProblem):
         return self.board
 
     def is_goal_state(self, state):
-        "*** YOUR CODE HERE ***"
         for target in self.targets:
             row, col = target
             if state.get_position(col, row) == -1:
