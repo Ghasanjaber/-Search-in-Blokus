@@ -189,7 +189,6 @@ class BlokusCoverProblem(SearchProblem):
 
 
 def blokus_cover_heuristic(state, problem):
-    "*** YOUR CODE HERE ***"
     dist = 0
     occupied = []
     for i in range(problem.board_h):
