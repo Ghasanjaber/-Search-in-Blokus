@@ -1,4 +1,3 @@
-﻿# -Search-in-Blokus
 This project focuses on implementing search algorithms for a simplified version of the strategy board game Blokus. Blokus involves placing uniquely shaped pieces on a grid, adhering to specific placement rules. The game is known for its strategic depth and spatial reasoning challenges. To familiarize yourself with the original game, we recommend reading its rules and playing it online against other players or computer opponents.
 
 
